@@ -9,6 +9,7 @@ class TestReactFormBuilder extends LeftAndMain
 {
     private static $url_segment = 'test-react';
     private static $menu_title = 'Test React FormBuilder';
+    private static $menu_icon_class = 'font-icon-database';
 
     public function getClientConfig()
     {
